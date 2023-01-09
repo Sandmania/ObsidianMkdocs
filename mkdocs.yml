@@ -1,4 +1,5 @@
 site_name: obsidian-mkdocs template
+site_url: https://joun.in/gh-pages-test/
 
 theme:
     name: 'material'
